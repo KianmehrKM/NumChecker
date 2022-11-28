@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsoleApp20
+namespace NumChecker01
 {
     class Program
     {
